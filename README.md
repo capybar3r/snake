@@ -1,5 +1,7 @@
 # Snake (game)
-The classical snake game implemented with Python.
+The classical snake game.
 
-Here you see a simple snake implementation with turtle.
+Programming language: Python
+Required libraries: turtle, random, time
+
 Feel free to clone it!
